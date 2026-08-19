@@ -37,6 +37,8 @@ body{
 
 .card h1{
     color: var(--white);
+    padding-top: 16px;
+    font-weight: 400;
 }
 
 .location{
