@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Submit di Frontend Mentor terlebih dahulu](#)
-- Live Site URL: [Add live site URL here](https://your-username.github.io/social-links-profile/)
+- Live Site URL: [Add live site URL here](https://zzeeyyaa.github.io/fem-social-links-profile/)
 
 ## My process
 
